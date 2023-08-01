@@ -12,11 +12,15 @@ body {
 
 }
 
-
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 .image-container img {
-    width: 100%;
-    margin: 3px;
+    width: 150%;
+    margin: 5px;
 }
 
 h1,
