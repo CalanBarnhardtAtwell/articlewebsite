@@ -5,12 +5,9 @@ html {
 }
 
 body {
-    margin: 1em;
+    margin: 20px;
     display: flex;
-    justify-content: center;
-    align-items: center;
     background: linear-gradient(to bottom, #7a7a7a, #463c3c);
-
 
 }
 
@@ -18,11 +15,12 @@ body {
     display: flex;
     flex-direction: column;
     width: 100%;
+    align-items: center;
 }
 
 .image-container img {
     width: 100%;
-    margin: 5px;
+    margin: 10px;
 }
 
 h1,
