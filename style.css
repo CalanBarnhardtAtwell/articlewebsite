@@ -1,0 +1,46 @@
+html {
+    font-size: 160%;
+    font-family: Avenir, 'Open Sans', Helvetica;
+    color: black;
+}
+
+body {
+    margin: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-container img {
+    width: 100%;
+    margin: 2px;
+}
+
+h1,
+h2 {
+    margin: 0;
+    line-height: 1.2;
+    color: SteelBlue;
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 120%;
+    border-bottom: 2px solid;
+    padding-bottom: 1rem;
+}
+
+* {
+    box-sizing: border-box;
+}
