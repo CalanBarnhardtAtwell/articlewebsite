@@ -26,8 +26,10 @@ body {
 .image-container img {
     width: 100%;
     margin: 10px;
-    /* border-style: groove;
-    border-color: aqua; */
+    border-radius: 20px;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
 }
 
 
