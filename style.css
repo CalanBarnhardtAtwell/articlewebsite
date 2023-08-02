@@ -3,7 +3,7 @@ html {
     font-size: 160%;
     font-family: Avenir, 'Open Sans', Helvetica;
     color: black;
-    background: linear-gradient(to bottom, #BA8626, #081455);
+    /* background: linear-gradient(to bottom, #BA8626, #081455); */
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,7 @@ body {
     margin: 15px;
     padding: 10px;
     display: flex;
-    background: linear-gradient(to bottom, #BA8626, #081455);
+    /* background: linear-gradient(to bottom, #BA8626, #081455); */
 
 }
 
