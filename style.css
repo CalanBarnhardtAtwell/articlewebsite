@@ -3,6 +3,8 @@ html {
     font-size: 160%;
     font-family: Avenir, 'Open Sans', Helvetica;
     color: black;
+    margin: 0;
+    padding: 0;
 }
 
 body {
