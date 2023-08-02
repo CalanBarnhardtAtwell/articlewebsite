@@ -1,3 +1,4 @@
+/*make it so there are borders, and if it is used on computers, make it change the width if the pixels wide is greater than the pixels vert*/
 html {
     font-size: 160%;
     font-family: Avenir, 'Open Sans', Helvetica;
@@ -22,6 +23,8 @@ body {
 .image-container img {
     width: 100%;
     margin: 10px;
+    border-style: ridge;
+    border-color: aqua;
 }
 
 h1,
