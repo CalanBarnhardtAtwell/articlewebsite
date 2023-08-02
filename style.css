@@ -27,8 +27,8 @@ body {
 .image-container img {
     width: 100%;
     margin: 10px;
-    /* border-style: groove;
-    border-color: aqua; */
+    border-style: groove;
+    border-color: aqua;
 }
 
 
